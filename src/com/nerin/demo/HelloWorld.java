@@ -9,4 +9,9 @@ public class HelloWorld
     {
         System.out.print("Hello world...");
     }
+
+    private static double add(double a, double b)
+    {
+        return a + b;
+    }
 }
